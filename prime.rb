@@ -49,7 +49,6 @@ def prime?(num)
       else
         nil
       end
->>>>>>> 573c62e47e024e69a7d64c91f0cf966000bac9dc
     end
   end
   if prime.index(num) == nil
